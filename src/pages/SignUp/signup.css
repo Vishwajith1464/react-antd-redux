@@ -1,0 +1,11 @@
+.poster-container{
+    background: rgba(0, 108, 234, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-container{
+    min-height: 100vh;
+}
+
+
